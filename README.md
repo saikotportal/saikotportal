@@ -59,7 +59,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saikotportal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/saikotportal/saikotportal/stats-output/stats.svg" height="151" alt="stats graph"  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saikotportal&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="saikotportal's GitHub Stats" />
   <img src="https://raw.githubusercontent.com/saikotportal/saikotportal/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
