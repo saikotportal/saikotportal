@@ -200,7 +200,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saikotportal/saikotportal/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saikotportal&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 </div>
 
 ###
