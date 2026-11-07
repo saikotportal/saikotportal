@@ -56,7 +56,7 @@ I'm **Saikot Islam Abir**, a fullstack developer with a strong **frontend specia
 <img src="assets/radar.svg" alt="Skill radar and counters" width="100%"/>
 
 <p align="center">
-  <img src="assets/icons/code.svg" height="26" alt=""/> <b>Frontend</b><br/>
+  <img src="assets/labels/frontend.svg" height="40" alt="Frontend"/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,threejs,vite&theme=light" alt="Frontend"/><br/>
   <img src="https://img.shields.io/badge/Framer_Motion-161313?style=flat-square&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
@@ -65,24 +65,24 @@ I'm **Saikot Islam Abir**, a fullstack developer with a strong **frontend specia
 </p>
 
 <p align="center">
-  <img src="assets/icons/server.svg" height="26" alt=""/> <b>Backend</b><br/>
+  <img src="assets/labels/backend.svg" height="40" alt="Backend"/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,go,rust&theme=light" alt="Backend"/><br/>
   <img src="https://img.shields.io/badge/REST_APIs-ff6a2b?style=flat-square"/>
   <img src="https://img.shields.io/badge/Microservices-3ee0b0?style=flat-square&labelColor=161313"/>
 </p>
 
 <p align="center">
-  <img src="assets/icons/db.svg" height="26" alt=""/> <b>Databases</b><br/>
+  <img src="assets/labels/databases.svg" height="40" alt="Databases"/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,sqlite&theme=light" alt="Databases"/>
 </p>
 
 <p align="center">
-  <img src="assets/icons/cloud.svg" height="26" alt=""/> <b>Cloud and DevOps</b><br/>
+  <img src="assets/labels/cloud.svg" height="40" alt="Cloud and DevOps"/><br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,nginx,cloudflare,vercel&theme=light" alt="Cloud and DevOps"/>
 </p>
 
 <p align="center">
-  <img src="assets/icons/ai.svg" height="26" alt=""/> <b>AI and ML</b><br/>
+  <img src="assets/labels/ai.svg" height="40" alt="AI and ML"/><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light" alt="AI"/><br/>
   <img src="https://img.shields.io/badge/OpenAI_API-161313?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -91,14 +91,14 @@ I'm **Saikot Islam Abir**, a fullstack developer with a strong **frontend specia
 </p>
 
 <p align="center">
-  <img src="assets/icons/tools.svg" height="26" alt=""/> <b>Tools</b><br/>
+  <img src="assets/labels/tools.svg" height="40" alt="Tools"/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,jest,webpack&theme=light" alt="Tools"/><br/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="assets/icons/learn.svg" height="26" alt=""/> <b>Learning next</b><br/>
+  <img src="assets/labels/learning.svg" height="40" alt="Learning next"/><br/>
   <img src="https://img.shields.io/badge/Rust-ff6a2b?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebAssembly-7c4dff?style=flat-square&logo=webassembly&logoColor=white"/>
   <img src="https://img.shields.io/badge/gRPC-3ee0b0?style=flat-square&labelColor=161313"/>
@@ -116,7 +116,7 @@ I'm **Saikot Islam Abir**, a fullstack developer with a strong **frontend specia
 </p>
 
 <details>
-<summary><img src="assets/icons/certs.svg" height="28" alt=""/> <b>Certificates (8)</b> &nbsp;click to open</summary>
+<summary><img src="assets/labels/certificates.svg" height="40" alt="Certificates (8)"/></summary>
 <br/>
 <img src="assets/certs.svg" alt="Certificates" width="100%"/>
 </details>
