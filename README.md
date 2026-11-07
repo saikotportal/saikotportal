@@ -19,20 +19,17 @@
 ## <img src="assets/icons/stats.svg" height="34" alt=""/>&nbsp; Live GitHub stats
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saikotportal&show_icons=true&bg_color=ece3ff&title_color=7c4dff&text_color=161313&icon_color=ff6a2b&ring_color=7c4dff&border_color=161313&border_radius=14" alt="GitHub stats"/>
-  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saikotportal&layout=compact&langs_count=8&bg_color=ece3ff&title_color=7c4dff&text_color=161313&border_color=161313&border_radius=14" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saikotportal&show_icons=true&bg_color=ece3ff&title_color=7c4dff&text_color=161313&icon_color=ff6a2b&ring_color=7c4dff&border_color=161313&border_radius=14" alt="GitHub stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=saikotportal&background=ECE3FF&border=161313&ring=7C4DFF&fire=FF6A2B&currStreakLabel=7C4DFF&currStreakNum=161313&sideLabels=161313&sideNums=161313&dates=4B4170&border_radius=14" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saikotportal&background=ECE3FF&border=161313&ring=7C4DFF&fire=FF6A2B&currStreakLabel=7C4DFF&currStreakNum=161313&sideLabels=161313&sideNums=161313&dates=4B4170&border_radius=14" alt="Streak"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saikotportal&layout=compact&langs_count=8&card_width=495&bg_color=ece3ff&title_color=7c4dff&text_color=161313&border_color=161313&border_radius=14" alt="Top languages"/>
+  <img width="49%" src="assets/bento.svg" alt="Years coding, languages, certificates, arcade games"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikotportal&bg_color=ece3ff&color=7c4dff&line=7c4dff&point=ff6a2b&area=true&area_color=cbb6ff&title_color=161313&hide_border=false&border_color=161313&radius=14" alt="Contribution activity" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saikotportal&theme=flat&margin-w=10&row=1&column=7&no-frame=true" alt="Trophies"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saikotportal&bg_color=ece3ff&color=7c4dff&line=7c4dff&point=ff6a2b&area=true&area_color=cbb6ff&hide_border=true&radius=14" alt="Contribution activity"/>
 </p>
 
 <br/>
