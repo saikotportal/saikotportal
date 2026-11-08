@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=saikotportal&style=for-the-badge&color=ff6a2b&label=PROFILE+VIEWS&labelColor=161313" alt="Profile views"/>
 </p>
 
-## <img src="assets/icons/stats.svg" height="34" alt=""/>&nbsp; Live GitHub stats
+<p align="center"><img src="assets/headers/stats.svg" width="100%" alt="Live GitHub stats"/></p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saikotportal&show_icons=true&bg_color=ece3ff&title_color=7c4dff&text_color=161313&icon_color=ff6a2b&ring_color=7c4dff&border_color=161313&border_radius=14" alt="GitHub stats"/>
@@ -37,7 +37,7 @@
   </picture>
 </p>
 
-## <img src="assets/icons/about.svg" height="34" alt=""/>&nbsp; About me
+<p align="center"><img src="assets/headers/about.svg" width="100%" alt="About me"/></p>
 
 <img src="assets/idcard.svg" alt="Developer ID card" width="100%"/>
 
@@ -45,11 +45,11 @@ I'm **Saikot Islam Abir**, a fullstack developer with a strong **frontend specia
 
 <img src="assets/terminal.svg" alt="Terminal: whoami" width="100%"/>
 
-## <img src="assets/icons/how.svg" height="34" alt=""/>&nbsp; How I work
+<p align="center"><img src="assets/headers/how.svg" width="100%" alt="How I work"/></p>
 
 <img src="assets/philosophy.svg" alt="Performance, clean code, open source, accessibility, ship fast" width="100%"/>
 
-## <img src="assets/icons/skills.svg" height="34" alt=""/>&nbsp; Skills and stack
+<p align="center"><img src="assets/headers/skills.svg" width="100%" alt="Skills and stack"/></p>
 
 <img src="assets/skills.svg" alt="Skill meter" width="100%"/>
 
@@ -106,7 +106,7 @@ I'm **Saikot Islam Abir**, a fullstack developer with a strong **frontend specia
   <img src="https://img.shields.io/badge/Cassandra-ffd23f?style=flat-square&logo=apachecassandra&logoColor=161313"/>
 </p>
 
-## <img src="assets/icons/projects.svg" height="34" alt=""/>&nbsp; Featured projects
+<p align="center"><img src="assets/headers/projects.svg" width="100%" alt="Featured projects"/></p>
 
 <img src="assets/projects.svg" alt="Featured projects" width="100%"/>
 
@@ -121,7 +121,7 @@ I'm **Saikot Islam Abir**, a fullstack developer with a strong **frontend specia
 <img src="assets/certs.svg" alt="Certificates" width="100%"/>
 </details>
 
-## <img src="assets/icons/work.svg" height="34" alt=""/>&nbsp; Work with me
+<p align="center"><img src="assets/headers/work.svg" width="100%" alt="Work with me"/></p>
 
 <img src="assets/cta.svg" alt="Let's build something" width="100%"/>
 
